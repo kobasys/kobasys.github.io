@@ -1,3 +1,3 @@
-:HL["/_next/static/css/d70dc757f88400ba.css","style"]
+:HL["/_next/static/css/4140b6eef8873351.css","style"]
 :HL["/assets/img/frog1.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"aboutme","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"r3ZsbuQ3qqo6R-nR5sxJi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"aboutme","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xKTj-2wOB9KUjVY_HK6J7"}
