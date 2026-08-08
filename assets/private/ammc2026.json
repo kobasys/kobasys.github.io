@@ -1,0 +1,14 @@
+{
+  "title": "Confidential Research Data: Adult Mouse Myocytes",
+  "description": "Comparative video data showing organelle dynamics in adult mouse cardiomyocytes under control conditions vs. doxorubicin-induced cardiotoxicity treatment.",
+  "videos": [
+    {
+      "label": "Adult Mouse Myocyte Control (マウスアダルト心筋 コントロール)",
+      "url": "/assets/video/AMMC_CON.m4v"
+    },
+    {
+      "label": "Adult Mouse Myocyte Doxorubicin Treatment (抗がん剤DOX処理)",
+      "url": "/assets/video/AMMC_DOX.m4v"
+    }
+  ]
+}
